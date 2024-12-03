@@ -4,12 +4,12 @@ This is a simple GPA calculator designed for first-year Computer Science student
 
 ## Features
 - Calculates GPA for six first-semester courses:
-  - **CS151**: Introduction to Computer Science
-  - **MT100**: Basic Mathematics
-  - **CL111**: Communication Skills
-  - **DS112**: Discrete Structures
-  - **CS174**: Programming Fundamentals
-  - **IS162**: Information Systems
+  - **CS151**: Computer Organization and Architecture I
+  - **MT100**: Foundations of Analysis
+  - **CL111**: Communication Skills for Engineers
+  - **DS112**: Development Skills I
+  - **CS174**: Programming in Java
+  - **IS162**: Introduction to Information Systems
 - Uses Tanzanian grading scale (A, B+, B, C, D, F) and corresponding grade points.
 - Provides GPA rounded to two decimal places.
 
@@ -17,9 +17,7 @@ This is a simple GPA calculator designed for first-year Computer Science student
 1. Enter your grade for each course (A, B+, B, C, D, F).
 2. The program calculates your GPA using the formula:
 
-   \[
-   \text{GPA} = \frac{\text{Total Grade Points}}{\text{Total Credits}}
-   \]
+GPA = Total Grade Points ÷ Total Credits
 
 3. The GPA is displayed with two decimal places.
 
